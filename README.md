@@ -5,6 +5,12 @@
 <h1 align="center">Green Valley</h1>
 
 <p align="center">
+  <a href="https://vybecoder.dev"><img src="https://img.shields.io/badge/Built_with-VybeCoder-7c3aed?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiPjxwb2x5Z29uIHBvaW50cz0iMTMgMiAzIDE0IDEyIDE0IDExIDIyIDIxIDEwIDEyIDEwIDEzIDIiLz48L3N2Zz4=&logoColor=white" alt="Built with VybeCoder" /></a>
+  <a href="https://vybecoder.dev"><img src="https://img.shields.io/badge/Execution_Verified-AI_Software_System-10b981?style=for-the-badge" alt="Execution Verified" /></a>
+</p>
+
+
+<p align="center">
   <strong>A Pixel-Art Farming Simulation — Built From Scratch</strong>
 </p>
 
@@ -293,6 +299,21 @@ Green Valley is **playable** with major systems functional:
 - ✅ Save/load with compressed LocalStorage
 - ✅ PWA support (installable, offline-capable)
 - 🔄 Story chapters and endgame content
+
+---
+
+## How This Was Built
+
+This project was built using **[VybeCoder](https://vybecoder.dev)** — an execution-verified AI software system that plans, generates, debugs, and verifies complete applications.
+
+Unlike traditional AI coding assistants that generate snippets and leave you to debug, VybeCoder manages the entire lifecycle: architecture decisions, multi-file coordination, error detection, automated repair, and runtime verification.
+
+**What does that mean in practice?**
+- Every file was planned, generated, and tested through VybeCoder's build pipeline
+- Errors were caught and fixed automatically — not manually
+- The final output was verified to run, not just compile
+
+> Want to build something like this? **[Start building with VybeCoder](https://vybecoder.dev)** — no coding experience required.
 
 ---
 
