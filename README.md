@@ -142,7 +142,7 @@ Multi-stage objectives (e.g., plant seeds → water → harvest → deliver) wit
 
 ### 🌤️ Time & Weather
 
-- **Day/night cycle** — 10 minutes of real time per in-game day
+- **Day/night cycle** — Syncs to your real system clock; street lanterns glow warm from dusk to dawn
 - **4 seasons** — 30-day cycles each, affecting crops and NPC behavior
 - **Dynamic weather** — Season-specific patterns:
   - Winter: Snow (30%), Clear (70%)
